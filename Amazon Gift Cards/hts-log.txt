@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 19 Dec 2022 04:30:31 at https://tweakshub.club/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tweakshub.club/ -O1 "C:\My Web Sites\Amazon Gift Cards" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:30:41	Error: 	"Not Found" (404) at link https://tweakshub.club/assets/css/kirki-styles.css (from https://tweakshub.club/)
+04:30:41	Error: 	"Not Found" (404) at link https://tweakshub.club/wp-json/ (from https://tweakshub.club/)
+04:30:41	Error: 	"Not Found" (404) at link https://tweakshub.club/wp-json/wp/v2/pages/6 (from https://tweakshub.club/)
+04:30:41	Error: 	"Not Found" (404) at link https://tweakshub.club/xmlrpc.php?rsd (from https://tweakshub.club/)
+04:30:41	Error: 	"Not Found" (404) at link https://tweakshub.club/wp-includes/wlwmanifest.xml (from https://tweakshub.club/)
+04:30:41	Error: 	"Not Found" (404) at link https://tweakshub.club/"https://stylecaster.com/wp-content/uploads/2021/10/amazon-beauty-gifts-holidays.jpg" (from https://tweakshub.club/)
+04:30:50	Error: 	"Not Found" (404) at link https://tweakshub.club/assets/fonts/vendor/mdi/materialdesignicons-webfont.eot (from https://tweakshub.club/assets/css/material-icons.min.css?ver=1.0.171)
+04:30:50	Error: 	"Not Found" (404) at link https://tweakshub.club/assets/fonts/materialdesignicons-webfont.eot? (from https://tweakshub.club/assets/css/material-icons.min.css?ver=1.0.171)
+04:30:50	Error: 	"Not Found" (404) at link https://tweakshub.club/assets/fonts/vendor/mdi/materialdesignicons-webfont.svg (from https://tweakshub.club/assets/css/material-icons.min.css?ver=1.0.171)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/zloto.png (from https://tweakshub.club/generator.html)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/fonts/DINPro-CondensedLight.woff2 (from https://tweakshub.club/css/style.css)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/fonts/DINPro-CondensedLight.woff (from https://tweakshub.club/css/style.css)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/fonts/DINPro-CondensedRegular.woff (from https://tweakshub.club/css/style.css)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/fonts/DINPro-CondensedBold.woff (from https://tweakshub.club/css/style.css)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/img/main-bg.jpg (from https://tweakshub.club/css/style.css)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/img/floating-figure.png (from https://tweakshub.club/css/style.css)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/img/player-icon.png (from https://tweakshub.club/css/style.css)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/img/coins-icon.png (from https://tweakshub.club/css/style.css)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/img/points-icon.png (from https://tweakshub.club/css/style.css)
+04:32:53	Error: 	"Not Found" (404) at link https://tweakshub.club/img/popup-bg.jpg (from https://tweakshub.club/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 22 seconds : 90 links scanned, 69 files written (164370736 bytes overall) [164155791 bytes received at 1156026 bytes/sec], 405851 bytes transferred using HTTP compression in 3 files, ratio 38%, 5.3 requests per connection
+(20 errors, 0 warnings, 0 messages)
